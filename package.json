@@ -1,0 +1,30 @@
+{
+  "name": "build-db-index",
+  "version": "1.0.0",
+  "description": "build db index by config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abiuDoIT/buildDbIndex.git"
+  },
+  "keywords": [
+    "db",
+    "index"
+  ],
+  "author": "abiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abiuDoIT/buildDbIndex/issues"
+  },
+  "homepage": "https://github.com/abiuDoIT/buildDbIndex#readme",
+  "dependencies": {
+    "@types/node": "^9.6.0",
+    "mongodb": "^3.0.5"
+  },
+  "files":[
+    "dist/*"
+  ]
+}
